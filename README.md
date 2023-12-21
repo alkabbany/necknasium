@@ -1,2 +1,5 @@
-# necknasium
-This is the repo dedicated to describing and providing a dataset collected during a project that aimed to develop a VR rehabilitative software for neck disorders. Inspired by the content of the VR module, which took place in a gymnasium, the software is named Necknasium, hence the repo name.
+# Necknasium
+
+<div align="justify"> 
+This study is concerned with the application of virtual reality (VR) in the rehabilitation programs for faulty neck posture which is a primary source of neck pain (NP). The latter is a highly prevalent musculoskeletal disorder that is associated with serious societal and economic burden. VR has been shown effective in the physical rehabilitation of various diseases. Specifically, it has shown to improve patients’ adherence and engagement to carry out physical exercises on a regular basis. Many games have been used to manage NP with different immersion levels. Towards this goal, we present a VR-based system that targets a specific neck problem, the so called forward head posture (FHP), which is a faulty head position that abnormally stresses neck structures. The system can also generalize well to other neck-related disorders and rehabilitation goals. We show the steps for designing and developing the system, and we highlight the aspects of interaction between usability and various game elements. Using a three-point scale for user experience, we also present preliminary insights on the evaluation of the system prototype, and we discuss future enhancement directions based on the users’ feedback.
+</div>
